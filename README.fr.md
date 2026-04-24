@@ -1,3 +1,5 @@
+🇬🇧 English version: [Read here](README.md)
+
 👋 Bonjour, je suis Roukiat
 🎯 Objectif professionnel
 En reconversion vers les métiers de la cybersécurité, je m’oriente vers un rôle de consultante fonctionnelle en cybersécurité et data, avec un intérêt particulier pour la gouvernance, la gestion des risques et la conformité (GRC).
