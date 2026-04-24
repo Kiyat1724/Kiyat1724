@@ -1,3 +1,5 @@
+🇫🇷 Version française : [Lire ici](README.fr.md)
+
 # 👋 Hi, I'm Roukiat
 
 ## 🎯 Career Objective
